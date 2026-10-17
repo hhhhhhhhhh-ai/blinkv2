@@ -15,6 +15,6 @@
 //  "service_role" key here.
 // ─────────────────────────────────────────────────────────────
 export const CONFIG = {
-  SUPABASE_URL: '',
-  SUPABASE_ANON_KEY: '',
+  SUPABASE_URL: 'https://qvwzqbbbdfcgwmftlgpi.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_UW0mQtpPgShpiIbMNM3aQQ_9sr7ZJIQ',
 };
